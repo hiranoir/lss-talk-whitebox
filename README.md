@@ -28,7 +28,7 @@ Together, these components form a programmable interface for human-AI collaborat
 
 ## 📄 Read the Whitepaper
 
-→ [Download PDF (v1.0)](./whitepaper/LSS_TALK_Whitebox_Whitepaper_v1.0.pdf)
+→ [Download PDF (v1.0)](./whitepaper/LSS_TALK_Whitebox_Whitepaper_Reviewed.pdf)
 
 ---
 
